@@ -1,0 +1,336 @@
+
+.header-background{
+	position: absolute;
+width: 1440px;
+height: 916px;
+left: 0px;
+top: 1px;
+
+/* Neutrals/N0 */
+
+background: #FFFFFF;
+}
+
+.m-logo{
+	padding-top: 10px;
+	padding-left: 100px;
+	text-decoration: none;
+	width: 76px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary/B400 */
+
+color: #6070FF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+a.inline {
+	font-width:bold;
+	padding-left: 50px;
+	text-decoration: none;
+	list-style-type: none;
+	padding:right:50px;
+  float: right;
+  color:#6070FF;
+
+}
+.link-right{
+
+	text-decoration: none;
+}
+.section1{
+	padding-top:150px;
+}
+.section2{
+	padding-left: 250px;
+	width: 920px;
+height: 122px;
+}
+/* Header / 1 */
+.h2{
+	float: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 60px;
+/* or 125% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.37px;
+
+/* Theme 1 / Neutrals 1 */
+
+color: #091E42;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.sec4h4{
+	color:#344563;
+	margin-top:-40px;
+}
+.sec2img{
+	margin-top:-20px;
+}
+.section3{
+	padding-top: 150px;
+}
+.sec3l{
+	 display: inline-block; 
+	width:570px;
+	padding-left:150px;
+}
+
+.sec3r{
+    display: inline-block; 
+	width:720px;
+	float: right;
+}
+.tonic{
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* or 130% */
+
+
+/* Theme 1 / Neutrals 1 */
+
+color: #091E42;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.sec3rlink{
+	text-decoration: none;
+	list-style-type: none;
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+
+/* Theme 1 / Neutrals 3 */
+
+color: #344563;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.sec3rlink2{
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+color: #6B778C;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.sec3p{
+	font-size: 51px;
+	
+	color:grey;
+}
+.sec3p1{
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+
+/* Neutrals/N600 */
+
+color: #344563;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.sec3rlink3{
+	text-decoration: none;
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+letter-spacing: 0.03em;
+
+/* Primary/B400 */
+
+color: #6070FF;
+background: #EBEBFF;
+border-radius: 8px;
+
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.dd{
+	position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Neutrals/N0 */
+
+background: #FFFFFF;
+/* Neutrals/N40 */
+
+border: 1px solid #DFE1E6;
+border-radius: 24px;
+}
+.sec3rbutton{
+	padding: 7px;
+	margin-top: 80px;
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 24px;
+/* identical to box height, or 141% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.03em;
+
+/* Primary/B500 */
+
+color: #396DF2;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.section4{
+	padding-top: 150px;
+}
+.sec4l{
+	display: inline-block; 
+	width:570px;
+	padding-left:150px;
+}
+.sec4r{
+    display: inline-block; 
+	width:720px;
+	float: right;
+}
+.sec4h2{
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* or 130% */
+
+
+/* Theme 1 / Neutrals 1 */
+
+color: #091E42;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.section5{
+	padding-top: 150px;
+}
+.sec5l{
+	display: inline-block; 
+	width:720px;
+	padding-left:150px;
+}
+.sec5r{
+    display: inline-block; 
+	width:570px;
+	float: right;
+}
+.section6{
+	padding-top: 100px;
+}
+.sec6l{
+	display: inline-block; 
+	width:720px;
+	padding-left:150px;
+}
+.sec6r{
+    display: inline-block; 
+	width:570px;
+	float: right;
+}
+.section7{
+	padding-top: 100px;
+}
+.sec7l{
+	display: inline-block; 
+	width:720px;
+	padding-left:150px;
+}
+.sec7r{
+    display: inline-block; 
+	width:570px;
+	float: right;
+}
+
+
+
